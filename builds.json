@@ -1417,5 +1417,16 @@
         "sha256": "5d793b6ef5dd03a6ba979a6788ee5fa64fdc282c9530c9bc7898426d0837359d",
         "url": "https://github.com/Lyxot/WSAOnWin10/releases/download/2311.40000.5.0/WSA_2311.40000.5.0_x64_Release.zip",
         "timestamp": 1704492250.0814722
+    },
+    "WSA_2311.40000.5.0_x64_Release-Nightly-with-magisk-26.4(26400)-stable-MindTheGapps-13.0-RemovedAmazon": {
+        "filename": "WSA_2311.40000.5.0_x64_Release-Nightly-with-magisk-26.4(26400)-stable-MindTheGapps-13.0-RemovedAmazon.zip",
+        "type": "Build",
+        "version": "2311.40000.5.0",
+        "arch": "x64",
+        "root_sol": "magisk",
+        "gapps_brand": "MindTheGapps",
+        "sha256": "28990ace1c869d45aad82e15af255397ca52705205455699489be64c29cfbb4b",
+        "url": "https://github.com/Lyxot/WSAOnWin10/actions/runs/7680371653",
+        "timestamp": 1706380301.159488
     }
 }
